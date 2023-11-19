@@ -15,8 +15,8 @@
 - **Typesense Rails Integration** 🚀
   - Built a Rails integration for Typesense. [Explore the project!](https://github.com/typesense/typesense-rails)
 
-- **Voice Banking Hackathon Winner** 🏆
-  - Proud winner of the Voice Banking Hackathon by IIT Madras Research Park and Reserve Bank Innovation Hub. [See the victory!](https://github.com/snm2824/Vaulter)
+- **Voice Banking Hackathon Runner Up** 🏆
+  - Proud runner up of the Voice Banking Hackathon by IIT Madras Research Park and Reserve Bank Innovation Hub. [See the victory!](https://github.com/snm2824/Vaulter)
 
 - **Develop4Good Summer 2023** ☀️
   - Contributed as a developer for the KadaCareer client project. [Check it out!](https://github.com/kadakareer)
