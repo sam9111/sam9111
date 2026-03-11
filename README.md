@@ -1,28 +1,13 @@
-# Hi! I'm Samyuktha Ganeshkumar 👋
+*heyo I am Samyuktha*
 
-🚀 I'm a full-stack developer with a passion for building web applications. My main skills include:
+Studied CS engineering
 
-- Front-End: **ReactJS** 💻
-- Back-End: **Flask** 🌐 and **Ruby on Rails** 🚂
+Currently at PwC as a UI Engineer
 
-💡 Besides my awesome customized pins (check them out below 👇), I've also made some exciting contributions:
+React, Typescript everyday
 
-## My Notable Contributions 🌟
+Core contributor to [Open Healthcare Network](https://github.com/coronasafe/care_fe/issues?q=assignee:@me+) , [Typesense Rails](https://github.com/typesense/typesense-rails) , [Develop4Good ](https://github.com/kadakareer)
 
-- **CARE Project by Open Healthcare Network** 👩‍⚕️
-  - I'm a core contributor to the CARE project. [Check it out!](https://github.com/coronasafe/care_fe/issues?q=assignee:@me+)
-
-- **Typesense Rails Integration** 🚀
-  - Built a Rails integration for Typesense. [Explore the project!](https://github.com/typesense/typesense-rails)
-
-- **Voice Banking Hackathon Runner Up** 🏆
-  - Proud runner up of the Voice Banking Hackathon by IIT Madras Research Park and Reserve Bank Innovation Hub. [See the victory!](https://github.com/snm2824/Vaulter)
-
-- **Develop4Good Summer 2023** ☀️
-  - Contributed as a developer for the KadaCareer client project. [Check it out!](https://github.com/kadakareer)
-
-## Let's Build Together 🤝
-
-I'm not just about code; I'm all about collaboration and innovation! If you have a fantastic project idea, or if you simply want to connect, feel free to reach out. Let's make some magic together! ✨
+6x Hackathon winner with most recent win being for the [2024 Google AI Hackathon](https://devpost.com/software/pixtale) for Most Impressive Technical Implementation 
 
 
