@@ -2,8 +2,6 @@
 
 Studied CS engineering
 
-Currently at PwC as a UI Engineer
-
 React, Typescript everyday
 
 Core contributor to [Open Healthcare Network](https://github.com/coronasafe/care_fe/issues?q=assignee:@me+) , [Typesense Rails](https://github.com/typesense/typesense-rails) , [Develop4Good ](https://github.com/kadakareer)
